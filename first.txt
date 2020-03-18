@@ -1,3 +1,7 @@
 git init - command is used to initialised the repo
 sitory.git -- version it will tell git version.
-this line is missing
+this line is missing.hello github.
+git init
+git version
+ git touch filename
+git cat filename
